@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab1Android</string>
+    <string name="colorHint">Enter color: red, green, or blue</string>
+    <string name="buttonText">Launch Second Activity</string>
+</resources>
